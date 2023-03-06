@@ -47,6 +47,7 @@ body, html{
   border-radius: 5px;
   border: 1px solid #D1D5DB;
   background-color: transparent;
+  font-size: 0.5rem;
   cursor: pointer;
 }
 
@@ -79,7 +80,7 @@ body, html{
   margin: 0;
   padding: 1em;
   text-align: center;
-  font-size: 0.7rem;
+  font-size: 0.5rem;
   color: #222;
   background-color: whitesmoke;
   font-weight: 500;
